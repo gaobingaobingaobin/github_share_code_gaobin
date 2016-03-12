@@ -13,6 +13,7 @@ being in revision process in ksii about CS
 
 adding above zhang jiang's code in the matlab path, our compare_six_subfigure_all.m  will produce the most figure in our revision paper 
 Accelerated Split Bregman Method for Image Compressive Sensing Recovery under Sparse Representation
+ in addtion: you must update BCS_ALSB_Recovery_SBI.m and BCS_GSR_Decoder_SBI_Iter.m using our above modified edition, otherwise,  using zhangjiang's primal edition  will lead to unpredicted and unwanted outputs.
 
 authors: Bin Gao, Peng Lan, Fang Tao, Li Zhang and Fenggang Sun
 
